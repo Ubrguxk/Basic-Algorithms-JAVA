@@ -15,4 +15,4 @@ The field I think is worth developing is the exceptions usage, because in this p
 But besides that, all of the functions are working properly so i consider it finished.
 
 ## Acknowledgements
-All the structure and content in this project was given by my teacher.
+Project structure was planned by my teacher. 
